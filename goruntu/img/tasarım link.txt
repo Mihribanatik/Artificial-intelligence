@@ -1,0 +1,15 @@
+https://www.mobilhanem.com/goruntu-isleme-egitimi/
+https://www.turanerdemsimsek.com/2017/08/opencv-python-dersleri.html
+https://www.youtube.com/watch?v=UwdKG0m1I8s
+https://ardahsynoglu.blogspot.com/2019/08/ilk-hedefim-hazr-haar-cascade-xml.html
+https://www.youtube.com/watch?v=_HRh-vWfeF0&t=3s
+https://www.youtube.com/watch?v=-LeuA7jIx8E&list=PLpmnLzMgTTpAucGwBMaLhcUOy60FN5-T8 yarınki video
+https://www.youtube.com/watch?v=WFFT8WQVDFs  yarınki video
+https://www.youhttps://mrrol.wordpress.com/2016/12/24/raspberry-pi-3-ile-goruntu-isleme/
+https://www.youtube.com/watch?v=VXCrwJucavU&list=PLBluXAf8BD7aHSc1zbRKE9ej3xyAbNV11&index=17  haarcaskate
+https://github.com/ahmetakif/Voice-Controlled-Raspberry-Pi-Robot/tree/master/Robotics/robo acık kaynak kod
+http://mavienginberk.blogspot.com/2016/03/opencv-dersleri-ders10-image.html
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio indirme
+https://www.youtube.com/watch?v=2OqKUA5DR0g morfolojik işlemker
+https://www.youtube.com/watch?v=Zi1msV-yNlU&list=PLIkM6e1pad02JJHZE7e5db-9ROIy5tD0F&index=16 grilestirme blur işlemi
+https://www.youtube.com/watch?v=_HRh-vWfeF0&t=105s canny kenar algılama
