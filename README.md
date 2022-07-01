@@ -1,1 +1,1 @@
-# Yapayzeka
+# Yapayzeka dersleri
