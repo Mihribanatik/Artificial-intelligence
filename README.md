@@ -1,1 +1,1 @@
-# Yapayzeka dersleri
+# Yapay zeka dersleri
